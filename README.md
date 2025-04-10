@@ -18,7 +18,6 @@ Hi, wait... how did you get here? 🤔
 
 Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖 developed by Joseph Weizenbaum.
 
-I'm currently a computer engineering 💻 student, trying to understand LLMs.
-
-  💬 Working on GPT-2 explainability...
+🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
+  • 💻 Computer Engineering student
 
