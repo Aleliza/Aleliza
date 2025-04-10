@@ -20,5 +20,5 @@ Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖 develope
 
 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
-    • 💻 Computer Engineering student
+   • 💻 Computer Engineering student
 
