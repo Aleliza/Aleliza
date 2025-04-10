@@ -1,4 +1,4 @@
-## Aleliza 👾
+## Alessandro Rivetti 👾
 
 <!--
 **Aleliza/Aleliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, wait... how did you get here? 🤔
+Hi, wait... how did you get here? 🤔 Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖 developed by Joseph Weizenbaum.
 
-Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖 developed by Joseph Weizenbaum.
 
    • 💻 Computer Engineering student
 
