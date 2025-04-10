@@ -19,7 +19,7 @@ Hi, wait... how did you get here? 🤔
 Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖.
 
 • 🎓 Bachelor of Computer Engineering
-<br/>
+<br />
    📕 Thesis: Implementation of systems for localization of devices in networks of wireless sensors 
    
 • 💻 Master of Computer Engineering Student
