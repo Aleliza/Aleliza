@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, wait... how did you get here? 🤔
+Hi, wait... how did you get here? 🤔 
 
-Anyway IAM Ale, my username is inspired by the first chatbot ELIZA 🤖. I work as a ☁️Cloud Engineer in an Italian IT consulting company.
+Anyway IAM Ale, my username is inspired by the first chatbot ELIZA 🤖.
 
+## Professional Experience
+* ☁️ Junior Cloud Engineer
+* 🏃‍♂ Cluster Reply
+
+## Education
 * 🎓 **Bachelor's degree in Computer Engineering**
   * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli", IT
   * 📚 Curriculum: Computer Science
