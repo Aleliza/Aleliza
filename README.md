@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 Hi, wait... how did you get here? 🤔
 
-Anyway I'm Ale, my username is inspired by the first chatbot ELIZA 🤖.
+Anyway IAM Ale, my username is inspired by the first chatbot ELIZA 🤖. I work as a ☁️Cloud Engineer in an Italian IT consulting company.
 
-* 🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
-  * 🏛️ University: Luigi Vanvitelli, IT
-     
+* 🎓 **Bachelor's degree in Computer Engineering**
+  * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli", IT
+  * 📚 Curriculum: Computer Science
   * 📕 Thesis: Implementation of systems for localization of devices in networks of wireless sensors 
    
-* 💻 𝗠𝗮𝘀𝘁𝗲𝗿 𝗼𝗳 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-   * 🏛️ University: Luigi Vanvitelli, IT
-     
-   * 📕 Thesis: Probably something about LLMs 
+* 💻 **Master's degree in Computer Engineering**
+   * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli, IT
+   * 📚 Curriculum: Distributed, Cloud and Intelligent Information Systems
+   * 📕 Thesis: Analysis of Internal Representations in Transformer-Based LLMs
