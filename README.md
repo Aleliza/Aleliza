@@ -20,7 +20,8 @@ Anyway IAM Ale, my username is inspired by the first chatbot ELIZA 🤖.
 
 ## Professional Experience
 * ☁️ **Junior Cloud Engineer**
-  * 🏃‍♂ Cluster Reply
+  * 🏃‍♂ Company: Reply
+  * ⏱️ Duration: 13/04/2026 -> Ongoing
 
 ## Education
 * 🎓 **Bachelor's degree in Computer Engineering**
