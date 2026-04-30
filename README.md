@@ -24,12 +24,12 @@ Anyway IAM Ale, my username is inspired by the first chatbot ELIZA 🤖.
   * ⏱️ Duration: 13/04/2026 -> Ongoing
 
 ## Education
-* 🎓 **Bachelor's degree in Computer Engineering**
-  * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli", IT
-  * 📚 Curriculum: Computer Science
-  * 📕 Thesis: Implementation of systems for localization of devices in networks of wireless sensors 
-   
 * 💻 **Master's degree in Computer Engineering**
    * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli, IT
    * 📚 Curriculum: Distributed, Cloud and Intelligent Information Systems
    * 📕 Thesis: Analysis of Internal Representations in Transformer-Based LLMs
+ 
+* 🎓 **Bachelor's degree in Computer Engineering**
+  * 🏛️ University: Università degli Studi della Campania "Luigi Vanvitelli", IT
+  * 📚 Curriculum: Computer Science
+  * 📕 Thesis: Implementation of systems for localization of devices in networks of wireless sensors 
